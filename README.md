@@ -17,6 +17,12 @@
 - 2020 年注册 GitHub，2026 年开始认真经营，目标是从"只 fork"变成"持续原创"
 - 欢迎通过 Issues / Discussions 交流
 
+### 精选项目
+
+| 项目 | 说明 |
+|------|------|
+| [ai-rules-cn](https://github.com/Mr404-404/ai-rules-cn) | 开箱即用的中文 AI 编程规则库：AGENTS.md / CLAUDE.md / Cursor 规则模板，让 AI 助手说中文、懂规范、不乱改代码 |
+
 ### 技术栈与工具
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -38,7 +44,7 @@
 
 ### 2026 目标
 
-- [ ] 发布第一个原创开源项目
+- [x] 发布第一个原创开源项目 → [ai-rules-cn](https://github.com/Mr404-404/ai-rules-cn)
 - [ ] 保持提交绿墙不断更
 - [ ] 给开源项目贡献第一个被合并的 PR
 
