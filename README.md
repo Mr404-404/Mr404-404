@@ -14,6 +14,7 @@
 
 - 正在系统学习 **Python**，从语言基础到计算机代数（sympy）逐步深入
 - 日常使用 AI 编程工具（Antigravity / Kimi Code）探索人机协作的开发方式
+- 在用 n8n / Make 搭建 AI 自动化工作流，关注 Gemini 与 Kimi 等模型的落地玩法
 - 2020 年注册 GitHub，2026 年开始认真经营，目标是从"只 fork"变成"持续原创"
 - 欢迎通过 Issues / Discussions 交流
 
@@ -30,6 +31,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+![AI Automation](https://img.shields.io/badge/-AI%20Automation-FF6F00?style=flat-square)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/-Make-6D00CC?style=flat-square&logo=make&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Kimi](https://img.shields.io/badge/-Kimi-2563EB?style=flat-square)
 
 ### GitHub 数据
 
